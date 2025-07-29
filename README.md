@@ -66,7 +66,7 @@ Go 1.20 or later
 Fork of mint by michellejns
 Make sure it is cloned and available in your Go module path
 
-Background
+## Background
 
 This project was created as part of a Master's thesis at FernUniversität in Hagen on the topic of:
 
