@@ -4,8 +4,8 @@ This repository demonstrates a custom TLS 1.3 setup based on a fork of [mint](ht
 
 - **0-RTT data transmission using PSKs**
 - **Replay resistance through key puncturing and session tracking**
-- **Forward secrecy using ephemeral keys**
-- **Benchmarking handshake performance**
+- **Forward secrecy**
+- **Benchmarking performance: latency, efficiency, and crypto cost**
 
 ## Features
 
